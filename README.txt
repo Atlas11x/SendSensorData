@@ -15,7 +15,7 @@ TODO:
 	888 ... ... ... ... 999
 	start message(888) ... ... ... .... ... stop message(999)
 
-	(888, 777,999)
+	(888, 777, 999)
 
 
 Arduino 20 and stop
@@ -27,3 +27,11 @@ Write data in file       <----- While File  -loop start computer -->   Send --->
  3. Block-diagram
 
 4. parser .ini python google
+
+
+
+sudoers
+
+----------------------------------------------------------------------------------------------------
+1. mail.ru telephone number
+	1.1 gmail.com get accsess out apps 
