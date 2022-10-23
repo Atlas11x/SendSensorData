@@ -35,3 +35,8 @@ sudoers
 ----------------------------------------------------------------------------------------------------
 1. mail.ru telephone number
 	1.1 gmail.com get accsess out apps 
+2. practice in send files
+3. Test html send
+*4. unite all files in chain (build project)
+*Target
+5. ini file
